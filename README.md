@@ -4,6 +4,7 @@ I’m Thilitshi Mudzungwane, a BSc Computer Science student at the University of
 🛠️ Tech Stack
 
 Languages: Java, Python, JavaScript, SQL, R, SAS
+
 Core Concepts: OOP, Data Structures, Algorithms, Debugging & Testing
 
 ⚡ Fun Fact
