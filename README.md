@@ -5,8 +5,6 @@ I’m Thilitshi Mudzungwane, a BSc Computer Science student at the University of
 
 Languages: Java, Python, JavaScript, SQL, R, SAS
 Core Concepts: OOP, Data Structures, Algorithms, Debugging & Testing
-Tools: Git, GitHub, Microsoft Office
-
 
 ⚡ Fun Fact
 
